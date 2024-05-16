@@ -4,7 +4,9 @@
     "features": {
         "ghcr.io/devcontainers/features/common-utils:2": {},
         "ghcr.io/devcontainers/features/git:1": {},
-        "ghcr.io/nikitakurpas/features/vapor-toolbox:1": {}
+        "ghcr.io/nikitakurpas/features/vapor-toolbox:1": {},
+        "ghcr.io/swift-server-community/swift-devcontainer-features/SwiftFormat:0": {},
+        "ghcr.io/itsmechlark/features/postgresql:1": {}
     },
     "runArgs": [
         "--cap-add=SYS_PTRACE",
